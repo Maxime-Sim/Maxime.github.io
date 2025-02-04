@@ -1,0 +1,6 @@
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/src/CMakeFiles/Cmake.dir
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/src/CMakeFiles/Console.dir
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/src/CMakeFiles/rebuild_cache.dir

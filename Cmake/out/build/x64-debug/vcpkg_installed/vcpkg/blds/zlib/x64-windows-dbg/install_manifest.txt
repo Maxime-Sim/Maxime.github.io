@@ -1,0 +1,2 @@
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/debug/lib/zlibd.lib
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/debug/bin/zlibd1.dll

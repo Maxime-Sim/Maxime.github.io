@@ -1,0 +1,12 @@
+-- Note: imgui-sfml only supports static library linkage. Building static library.
+-- Downloading https://github.com/eliasdaler/imgui-sfml/archive/v2.6.tar.gz -> eliasdaler-imgui-sfml-v2.6.tar.gz...
+-- Extracting source C:/Users/M.Simon/AppData/Local/vcpkg/downloads/eliasdaler-imgui-sfml-v2.6.tar.gz
+-- Applying patch 0001-fix_find_package.patch
+-- Using source at C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/blds/imgui-sfml/src/v2.6-1dc04eadfd.clean
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui-sfml_x64-windows/share/imgui-sfml/copyright
+-- Installing: C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui-sfml_x64-windows/share/imgui-sfml/usage
+-- Exécution de la validation post-build

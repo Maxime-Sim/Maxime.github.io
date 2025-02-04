@@ -1,0 +1,12 @@
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/tools/brotli/brotli.exe
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlienc.lib
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlienc.dll
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlidec.lib
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlidec.dll
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlicommon.lib
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlicommon.dll
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/unofficial-brotli/unofficial-brotli-config.cmake
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/unofficial-brotli/unofficial-brotli-config-debug.cmake
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlicommon.pc
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlidec.pc
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlienc.pc

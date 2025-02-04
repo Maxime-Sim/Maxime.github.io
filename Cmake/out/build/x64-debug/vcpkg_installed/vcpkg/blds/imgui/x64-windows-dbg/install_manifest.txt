@@ -1,0 +1,4 @@
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/lib/imguid.lib
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-config.cmake
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-targets.cmake
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-targets-debug.cmake

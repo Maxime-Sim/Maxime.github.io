@@ -1,0 +1,10 @@
+-- Note: imgui only supports static library linkage. Building static library.
+-- Downloading https://github.com/ocornut/imgui/archive/v1.90.2.tar.gz -> ocornut-imgui-v1.90.2.tar.gz...
+-- Extracting source C:/Users/M.Simon/AppData/Local/vcpkg/downloads/ocornut-imgui-v1.90.2.tar.gz
+-- Using source at C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/blds/imgui/src/v1.90.2-4442117b09.clean
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/copyright
+-- Exécution de la validation post-build

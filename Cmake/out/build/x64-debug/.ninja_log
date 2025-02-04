@@ -1,0 +1,6 @@
+# ninja log v5
+7	330	7597576346076270	src/CMakeFiles/Console.dir/lib/Console.cpp.obj	fb8c2fd8b573580d
+331	364	7597576346413589	src/Console.lib	4d3fc2f5494d3283
+12	3265	7597602468458803	build.ninja	9d825afb24c75c2d
+4	541	7597576348176452	src/CMakeFiles/Cmake.dir/Cmake.cpp.obj	5b14ee10a3770ad3
+19	500	7597576550606051	src/Cmake.exe	ee1f14d4bdb0620

@@ -1,0 +1,6 @@
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui-sfml_x64-windows/debug/lib/ImGui-SFML.lib
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui-sfml_x64-windows/debug/include/imgui-SFML.h
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui-sfml_x64-windows/debug/include/imgui-SFML_export.h
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui-sfml_x64-windows/debug/include/imconfig-SFML.h
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui-sfml_x64-windows/debug/lib/cmake/ImGui-SFML/ImGui-SFMLConfig.cmake
+C:/Users/M.Simon/Desktop/Greg/Cmake/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/imgui-sfml_x64-windows/debug/lib/cmake/ImGui-SFML/ImGui-SFMLConfig-debug.cmake
