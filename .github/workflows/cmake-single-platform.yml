@@ -34,7 +34,7 @@ jobs:
     - name: Configure CMake
       working-directory: ${{github.workspace}}/Cmake
       run: |
-        cmake -S . -B build `
+        cmake -S ./Cmake -B build `
         -DCMAKE_BUILD_TYPE=${{env.BUILD_TYPE}} `
         -DCMAKE_TOOLCHAIN_FILE="$env:VCPKG_ROOT/scripts/buildsystems/vcpkg.cmake"
       shell: pwsh
