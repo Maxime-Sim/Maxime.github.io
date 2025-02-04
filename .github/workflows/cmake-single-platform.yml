@@ -40,10 +40,10 @@ jobs:
       shell: pwsh
 
     - name: Build
-      run: cmake --build ${{github.workspace}} --config ${{env.BUILD_TYPE}}
+      run: cmake --build ${{github.workspace}}/Cmake --config ${{env.BUILD_TYPE}}
 
     - name: Run
-      working-directory: ${{github.workspace}}/build/src/${{env.BUILD_TYPE}}
+      working-directory: ${{github.workspace}}/Cmake/build/src/${{env.BUILD_TYPE}}
       run: |
         start /b .\Cmake.exe
         timeout /t 5
