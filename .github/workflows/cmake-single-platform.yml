@@ -1,4 +1,4 @@
-name: cours_test
+name: Cmake
 
 on:
   push:
@@ -43,9 +43,9 @@ jobs:
       run: cmake --build ${{github.workspace}} --config ${{env.BUILD_TYPE}}
 
     - name: Run
-      working-directory: ${{github.workspace}}${{env.BUILD_TYPE}}
+      working-directory: ${{github.workspace}}/build/src/${{env.BUILD_TYPE}}
       run: |
-        start /b .\cours_test.exe
+        start /b .\Cmake.exe
         timeout /t 5
-        taskkill /f /im cours_test.exe
+        taskkill /f /im Cmake.exe
       shell: cmd
